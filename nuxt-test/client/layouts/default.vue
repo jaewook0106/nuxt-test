@@ -1,12 +1,12 @@
 <template>
   <div>
     <nuxt-link to="/user/test">테스트</nuxt-link>
-    <nuxt-link to="/product">프로덕트</nuxt-link>
+    <nuxt-link to="/product">상품</nuxt-link>
     <nuxt/>
   </div>
 </template>
 
-<style>
+<style lang="scss">
 html {
   font-family: "Source Sans Pro", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
   font-size: 16px;
